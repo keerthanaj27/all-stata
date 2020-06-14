@@ -1,2 +1,2 @@
 # all-stata
-This has all of the stata code
+This repository has some pieces of stata code that shows data cleaning and analysis methods. 
